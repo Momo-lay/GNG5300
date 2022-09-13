@@ -1,2 +1,4 @@
-x = input('Enter your name:')
-print('Hello, ' + x)
+x = input('Enter your first input:')
+y = input('Enter your second input:')
+z = x+y
+print('Output is, ' + x, y, z)
