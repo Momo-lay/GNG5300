@@ -1,4 +1,17 @@
-x = input('Enter your first input:')
-y = input('Enter your second input:')
-z = x+y
-print('Output is, ' + x, y, z)
+q = input('Enter your first input:')
+w = input('Enter your second input:')
+z = q+w
+print('Output is, ' + q, w, z)
+
+
+
+# peer 
+x = 5
+y = 2
+a = x - y
+b = x+y
+c = x*y
+d = x**y
+e = x/y
+
+print(a,b,c,d,e)
